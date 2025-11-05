@@ -1,6 +1,7 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00b894;">Alvin Kurniawan</span></h1>
-<h3 align="center">💻 Backend-Focused Full Stack Developer | 🚀 Turning Ideas into Scalable Code</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFBF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Alvin+Kurniawan!;💻+Backend-Focused+Full+Stack+Developer;🚀+Turning+Ideas+into+Scalable+Code;🌱+Always+Learning+and+Building" />
+</p>
 
 ---
 
@@ -9,7 +10,7 @@
 - 💡 Passionate about **Backend Systems**, **API Design**, and **Database Management**
 - 🌱 Currently exploring **Go**, **Next.js**, and **Microservices Architecture**
 - ⚡ Love to build things that are efficient, secure, and impactful
-- 🎯 My motto: *"Code is best when it’s simple, scalable, and smart."*
+- 🎯 Motto: *"Code is best when it’s simple, scalable, and smart."*
 
 ---
 
@@ -27,12 +28,13 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
 </p>
 
 ### 🧩 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,docker,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,docker,github,vscode,git,vercel" />
 </p>
 
 ---
@@ -42,11 +44,11 @@
 |--------------|-------------|
 | 🧩 Problem Solving | Analyzing complex issues and finding efficient solutions |
 | 🧠 Critical Thinking | Making logical decisions backed by data and reasoning |
-| ⏱️ Time Management | Balancing multiple projects with consistent deadlines |
-| 🤝 Team Work | Collaborating effectively in diverse environments |
-| 🌟 Leadership | Guiding and motivating peers toward common goals |
+| ⏱️ Time Management | Managing multiple projects effectively |
+| 🤝 Team Work | Collaborating smoothly with diverse teams |
+| 🌟 Leadership | Motivating and guiding peers toward shared goals |
 | 🎓 Teaching | Helping others understand and grow technically |
-| 🔁 Adaptability | Quickly adjusting to new technologies and challenges |
+| 🔁 Adaptability | Quickly learning new technologies and frameworks |
 
 ---
 
@@ -59,9 +61,9 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Recognized for outstanding **team leadership** and **project delivery** in university projects  
+- 🥇 Recognized for outstanding **team leadership** and **project delivery**
 - 🔍 Completed multiple **API-driven** and **database-integrated** systems  
-- 🚀 Actively contributing to open-source and academic technology initiatives  
+- 🚀 Active contributor to **open-source** and **academic tech initiatives**
 
 ---
 
