@@ -32,7 +32,7 @@
 
 ### 🧩 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,docker,github,vscode" />
 </p>
 
 ---
